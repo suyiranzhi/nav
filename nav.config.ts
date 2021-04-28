@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://suyiranzhi.xyz',
+  homeUrl: '',
 
   // 网站标题
   title: '苏亦然之导航',
